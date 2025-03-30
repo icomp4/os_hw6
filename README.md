@@ -1,5 +1,6 @@
 ## Example output:
-```.....starting threads.....
+```
+.....starting threads.....
 wrote value 83
 read value 83
 wrote value 86
